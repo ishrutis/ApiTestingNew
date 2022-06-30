@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-25T22:42:05 IST" name="Default suite" finished-at="2022-06-25T22:42:09 IST" duration-ms="3874">
+    <groups>
+    </groups>
+    <test started-at="2022-06-25T22:42:05 IST" name="Default test" finished-at="2022-06-25T22:42:09 IST" duration-ms="3874">
+      <class name="TC001_GET_Request">
+        <test-method signature="getAllWeatherData()[pri:0, instance:TC001_GET_Request@55536d9e]" started-at="2022-06-25T22:42:05 IST" name="getAllWeatherData" finished-at="2022-06-25T22:42:08 IST" duration-ms="2834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllWeatherData -->
+        <test-method signature="getweatherDetails()[pri:0, instance:TC001_GET_Request@55536d9e]" started-at="2022-06-25T22:42:08 IST" name="getweatherDetails" finished-at="2022-06-25T22:42:09 IST" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- TC001_GET_Request -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
