@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="4215" started-at="2022-06-25T22:44:27 IST" finished-at="2022-06-25T22:44:31 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="4215" started-at="2022-06-25T22:44:27 IST" finished-at="2022-06-25T22:44:31 IST">
+      <class name="TC001_GET_Request">
+        <test-method status="PASS" signature="getAllWeatherData()[pri:0, instance:TC001_GET_Request@4bec1f0c]" name="getAllWeatherData" duration-ms="3147" started-at="2022-06-25T22:44:27 IST" finished-at="2022-06-25T22:44:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllWeatherData -->
+        <test-method status="PASS" signature="getweatherDetails()[pri:0, instance:TC001_GET_Request@4bec1f0c]" name="getweatherDetails" duration-ms="1042" started-at="2022-06-25T22:44:30 IST" finished-at="2022-06-25T22:44:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- TC001_GET_Request -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
